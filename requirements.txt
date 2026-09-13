@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+watchdog
+plotly
+beautifulsoup4
