@@ -1007,6 +1007,6 @@ Abb. 5. Teapot, porcelain with turquoise-blue and purple glazes, China, Qing dyn
 Abb. 6. Bowl, porcelain painted in underglaze blue, China, Qing dynasty, Kangxi mark and period (1662-1722), Victoria and Albert Museum: https://collections.vam.ac.uk/item/O179619/bowl-unknown/ | IIIF: https://framemark.vam.ac.uk/collections/2010EC3866/full/!1000,1000/0/default.jpg
 """)
 
-st.caption("""Die Webseite entstand als Prüfungsleistung für das Seminar „Kulturgutdaten für Forschungsfragen“ unter der Leitung Dr. habil. Angela Dreßen im Sommersemester 2026 an der Technischen Universität Dresden und dient keinen kommerziellen Zwecken.
+st.caption("""Die Webseite entstand als Prüfungsleistung für das Seminar „Kulturgüterdaten und Forschungsfragen: Datenabfrage, Datenmodellierung und Interpretation “ unter der Leitung Dr. habil. Angela Dreßen im Sommersemester 2026 an der Technischen Universität Dresden und dient keinen kommerziellen Zwecken.
 """)
 
