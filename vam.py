@@ -985,10 +985,28 @@ st.plotly_chart(style_acc_bar, use_container_width=True)
 
 #--------------------FOOTER---------------------------
 
-st.subheader("Quelle für den Datensatz und Abbildungen:")
+st.subheader("Quelle für den Datensatz:")
 st.markdown("Victoria and Albert Museum (2021) _Victoria and Albert Museum Collections Data_ (data retrieved via [Victoria and Albert Museum Collections API](https://developers.vam.ac.uk)), https://collections.vam.ac.uk/")
+st.subheader("Abbildungsverzeichnis:")
+st.markdown("""
+Abb. 1. Tea Canister and Cover, porcelain, printed in blue. English (Caughley); 1772-1799, Victoria and Albert Museum: https://collections.vam.ac.uk/item/O307819/tea-canister-caughley/ | IIIF: https://framemark.vam.ac.uk/collections/2019LV0550/full/!1000,1000/0/default.jpg 
 
-st.caption("""Die Webseite entstand als Prüfungsleistung für das Seminar „Kulturgutdaten für Forschungsfragen“ unter der Leitung Dr. habil. Angela Dreßen im Sommersemester 2026 an der Technischen Universität Dresden und dient keinen kommerziellen Zwecken
+
+Abb. 2. Saucer, porcelain, printed in blue, Liverpool, England, ca. 1750-1775, Victoria and Albert Museum: https://collections.vam.ac.uk/item/O345197/saucer/ | IIIF: https://framemark.vam.ac.uk/collections/2019LM2449/full/!1000,1000/0/default.jpg
+
+
+Abb. 3. Pastille burner, Soft-paste porcelain, painted in enamels and gilt, Sèvres Porcelain Factory, Victoria and Albert Museum: https://collections.vam.ac.uk/item/O111072/pastille-burner-vincennes-porcelain-factory/ | IIIF: https://framemark.vam.ac.uk/collections/2019LL0659/full/!1000,1000/0/default.jpg
+
+
+Abb. 4. Mini vase, Red Chamber range, China, Jingdezhen, 2008, designed by Bo Jia, made by Middle Kingdom Porcelain, porcelain, Victoria and Albert Museum: https://collections.vam.ac.uk/item/O1158131/mini-vase-vase-bo-jia/ | IIIF: https://framemark.vam.ac.uk/collections/2009CP2969/full/!1000,1000/0/default.jpg
+
+
+Abb. 5. Teapot, porcelain with turquoise-blue and purple glazes, China, Qing dynasty, Kangxi period (1662-1722), Victoria and Albert Museum: https://collections.vam.ac.uk/item/O188255/teapot-unknown/ | IIIF: https://framemark.vam.ac.uk/collections/2010DY9844/full/!1000,1000/0/default.jpg
+
+
+Abb. 6. Bowl, porcelain painted in underglaze blue, China, Qing dynasty, Kangxi mark and period (1662-1722), Victoria and Albert Museum: https://collections.vam.ac.uk/item/O179619/bowl-unknown/ | IIIF: https://framemark.vam.ac.uk/collections/2010EC3866/full/!1000,1000/0/default.jpg
 """)
 
+st.caption("""Die Webseite entstand als Prüfungsleistung für das Seminar „Kulturgutdaten für Forschungsfragen“ unter der Leitung Dr. habil. Angela Dreßen im Sommersemester 2026 an der Technischen Universität Dresden und dient keinen kommerziellen Zwecken.
+""")
 
